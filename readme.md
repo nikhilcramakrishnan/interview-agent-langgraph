@@ -19,8 +19,8 @@ Follow these steps to get the project up and running.
 1. Clone the repository:
 
    ```
-   git clone <repository_url>
-   cd <project_directory>
+   git clone [<repository_url>](https://github.com/nikhilcramakrishnan/interview-agent-langgraph.git)
+   cd interview-agent-langgraph
 
    ```
 
