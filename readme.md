@@ -2,6 +2,10 @@
 
 This project consists of a backend agent API and a frontend application.
 
+# Demo
+![UI](demo.gif)
+
+
 ## Getting Started
 
 Follow these steps to get the project up and running.
@@ -35,7 +39,7 @@ Follow these steps to get the project up and running.
    # On Windows:
    # .\venv\Scripts\activate
    # On macOS/Linux:
-   # source venv/bin/activate
+   source venv/bin/activate
 
    pip install -r requirements.txt
 
